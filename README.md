@@ -6,7 +6,7 @@ Parses syllabli looking for learning objective. Uses a separate parser for Word 
 looks throug syllabi for common language and SLO verbs
 
 ```
-usasge:
+usage:
 
 Please enter a file to parse as an argument.
 Usage: filename.[pfd,doc,docx]
